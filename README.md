@@ -11,4 +11,4 @@ When looking at the data there are some differences that can be seen right away.
 
 ### Weekly Fare Graph
 
-!["Weekly Fare Graph"]()
+!["Weekly Fare Graph"](https://github.com/40super/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary1.png?raw=true)
